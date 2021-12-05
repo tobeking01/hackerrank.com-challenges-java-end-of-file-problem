@@ -23,7 +23,8 @@ Sample Output
 2 I am a file
 3 Read me until end-of-file. -->
 
-<!-- Code: -->
+
+<!-- Solution: -->
 
 import java.io.*;
 import java.util.*;
